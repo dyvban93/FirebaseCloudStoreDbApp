@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseCloudStoreDbApp</string>
+    <string name="hint_entrez_un_nom">Entrez un nom</string>
+    <string name="hint_entrez_un_prenom">Entrez un prenom</string>
+    <string name="hint_num_phone">Entrez numéro de téléphone</string>
+    <string name="sauvegarder">Sauvegarder</string>
+    <string name="remplir_tous_les_champs">Veuillez remplir tous les champs</string>
+    <string name="save_success">Sauvegarder avec succes</string>
+    <string name="save_failed">Echec lors de la sauvegarde</string>
+</resources>

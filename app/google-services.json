@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728658749867",
+    "firebase_url": "https://fir-cloudstoredbapp.firebaseio.com",
+    "project_id": "fir-cloudstoredbapp",
+    "storage_bucket": "fir-cloudstoredbapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728658749867:android:e4d530a1440a1174504aee",
+        "android_client_info": {
+          "package_name": "com.bakota.androidapps.firebasecloudstoredbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728658749867-dem4rkvq1fhffp14f940nc925u272587.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bakota.androidapps.firebasecloudstoredbapp",
+            "certificate_hash": "36abfbcbb75160f7dfa71382743ddc46ce00fc82"
+          }
+        },
+        {
+          "client_id": "728658749867-s81o2csl22hps8p5g21b5ij32as1eslt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApD92pPJGU0-Gf777mqkVjSH7zvbE0Jjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728658749867-s81o2csl22hps8p5g21b5ij32as1eslt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
